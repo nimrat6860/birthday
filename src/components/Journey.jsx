@@ -243,8 +243,7 @@ const Journey = () => {
           className="w-64 h-64 md:w-300 md:h-72 rounded-xl shadow-lg shadow-blue-200/50 border-2 border-blue-300"
         />
         <p className="text-lg md:text-xl text-blue-800 leading-relaxed">
-          After completing his degree and working in India for some time in
-          India💼, he decided to move to Canada 🍁✈️ to start a new journey in
+          After completing his degree and working in India for some time 💼, he decided to move to Canada 🍁✈️ to start a new journey in
           life 🌍. I remember helping him with all his packing 🧳❤️, folding
           every shirt with love. The day of his flight finally came, and I can’t
           even express what I was feeling at that moment 🥺💔. Everyone was
